@@ -106,16 +106,7 @@ Contributions welcome! Please:
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details
-
 ## 🆘 Support
-
-Having issues? 
-
-- Check [Issues](https://github.com/Kamara23-tics/pgef-staking-vault/issues)
-- Open a new issue
 - Contact: graceonah79@gmail.com
 
 ## 🙏 Acknowledgments
